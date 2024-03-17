@@ -116,3 +116,18 @@ h3{
   border-color: #A67526;
 }
 
+.row{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  flex-grow: 4;
+  align-items: stretch;
+}
+
+.nav{
+  background: #2c3e50;
+  columns: 100px 2;
+  -webkit-column-rule: 1px solid #1a242f;
+  -moz-column-rule: 1px solid #1a242f;
+  column-rule: 1px solid #1a242f;
+}
