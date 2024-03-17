@@ -103,6 +103,25 @@ h3 img{
   position: relative;
 }
 
+p{
+  font-size: 25px;
+  background-color: #C88C2D;
+  color: #861109;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border:solid 5px #861109;
+}
+
+iframe{
+  padding: 0;
+  margin: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .EndImage{
   border-bottom: solid 5px #861109;
 }
@@ -165,4 +184,9 @@ h3 img{
   color: #861109;
   background-color: #A67526;
   border-color: #A67526;
+}
+
+.Links{
+  font-weight: 600;
+  color: #4C060E;
 }
